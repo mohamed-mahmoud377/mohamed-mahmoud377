@@ -1,5 +1,13 @@
 
 <h1 align="center">  Backend Engineer </h3>
+## About Me:
+###
+* I am an undergraduate student of Computer Science at *Faculty of Computers and Artificial Intelligence Cairo University*. And I am An Independent And Self-motivated Software Engineer.
+
+*  Interested in _Software Engineering_ , love learning new technologies.
+* I’m currently learning Backend, Database.
+* 💬 Ask me about Backend, Database, MongoDB.
+* 📫 [How to reach me](#contact-with-me-on)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-mahmoud377&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-mahmoud377" /> </p> 
 
 <a href="https://github.com/mohamed-mahmoud377/mohamed-mahmoud377/blob/6c6d1fd1e1a0479ec0115c29fd547f91d4cf6708/Discord.md"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a> 
@@ -13,14 +21,7 @@
 
 
 
-## About Me:
-###
-* I am an undergraduate student of Computer Science at *Faculty of Computers and Artificial Intelligence Cairo University*. And I am An Independent And Self-motivated Software Engineer.
 
-*  Interested in _Software Engineering_ , love learning new technologies.
-* I’m currently learning Backend, Database.
-* 💬 Ask me about Backend, Database, MongoDB.
-* 📫 [How to reach me](#contact-with-me-on)
 
 ## contact with me on 
 
