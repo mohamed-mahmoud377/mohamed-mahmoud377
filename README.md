@@ -9,7 +9,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamed-mahmoud377&show_icons=true&theme=radical" alt="mohamed-mahmoud377" /></p>
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-mahmoud377&layout=demo" alt="mohamed-mahmoud377" /></p>
 
 
 ## About Me:
